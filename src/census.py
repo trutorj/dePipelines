@@ -14,7 +14,7 @@ load_dotenv()
 
 #Import token and check it
 mytoken = os.getenv("CENSUS")
-print("VAMOOS AHÍ! tenemos APIKEY") if mytoken else print("Mal asunto, no la vemos")
+print("Requested APIKEY found") if mytoken else print("Mal asunto, no la vemos")
 
 # Function to get population and population density
 # from the census for all California counties and to serve it
