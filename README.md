@@ -1,4 +1,4 @@
-# Pipelines project
+# Data analysis pipeline
 ## Objetivo
 El objetivo de este proyecto es crear un un script que al ejecutarse en la terminal, genere de forma automática una series de estadísticas que serán reportadas o bien por la terminal de la consola (en formato tabla y/o gráfica), o guardadas como un informe en un archivo pdf.
 ## Materiales y Métodos
