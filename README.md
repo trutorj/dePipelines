@@ -31,7 +31,7 @@ Finalmente, se procede a describir las funcionalidades del script.
 * --county_stats. Muestra por consola una tabla las estadísticas básicas para cada condado.
 * -- variable. Variable a partir de la cual se generará una tabla agrupada que muestra el número de incendios por año si la variable = 'Year' y la superficie quemada por año si la variable = 'HaBurned'.
 * -- value. El valor por el que se agregarán los datos. Para la variable Year value debe ser igual a 'count' y para para HaBurned, 'sum'.
-* --print. Muestra (y guarda en la carpeta **out**) los gráficos generados para cada tipo de análisis.
-* --pdf. Genera un pdf a modo de informe que se encuentra en la carpeta **out**
+* --print. Muestra (y guarda en la carpeta **output**) los gráficos generados para cada tipo de análisis.
+* --pdf. Genera un pdf a modo de informe que se encuentra en la carpeta **output**
 
 
